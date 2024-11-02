@@ -1,0 +1,27 @@
+---
+title: "Shiny.fluent"
+author: "Tony Liu"
+date: "2024-11-02"
+categories: [ code]
+image: "shiny_fluent_2.svg"
+---
+
+::::: columns
+::: {.column width="40%"}
+[![Shiny.fluent](shiny_fluent_2.svg){fig-alt="Shiny speaks fluent - Microsoft UI framework" fig-align="left" width="65"}](https://www.appsilon.com/rhinoverse/shiny-fluent)
+
+Shiny.Fluent is a R shiny framework that utilizes Microsoft Fluent UI, developed by [Appsilon](appsilon.com).
+
+Demo
+
+<https://connect.appsilon.com/fluentui/>
+
+Github
+
+<https://github.com/Appsilon/shiny.fluent>
+:::
+
+::: {.column width="60%"}
+![Shiny Fluent App](demo.gif)
+:::
+:::::

@@ -1,0 +1,13 @@
+---
+title: "Outstanding User Interfaces with Shiny"
+description: "A book on building beautiful R Shiny Interface"
+author: "Tony Liu"
+categories: [book]
+date: "11/02/2024"
+---
+
+Link to the book
+
+<https://unleash-shiny.rinterface.com/>
+
+![](cover.jpg)

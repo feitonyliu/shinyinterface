@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Shiny Interfaces",
+    "section": "",
+    "text": "bs4Dash\n\n\n\n\n\n\ncode\n\n\n\nBootstrap 4 shinydashboard using AdminLTE3\n\n\n\n\n\nNov 2, 2024\n\n\nTony Liu\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Shiny\n\n\n\n\n\n\nbook\n\n\n\nEssential reading for developing Shiny applications.\n\n\n\n\n\nNov 2, 2024\n\n\nTony Liu\n\n\n\n\n\n\n\n\n\n\n\n\nOutstanding User Interfaces with Shiny\n\n\n\n\n\n\nbook\n\n\n\nA book on building beautiful R Shiny Interface\n\n\n\n\n\nNov 2, 2024\n\n\nTony Liu\n\n\n\n\n\n\n\n\n\n\n\n\nShiny.fluent\n\n\n\n\n\n\ncode\n\n\n\n\n\n\n\n\n\nNov 2, 2024\n\n\nTony Liu\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 30, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/shiny.fluent/index.html",
+    "href": "posts/shiny.fluent/index.html",
+    "title": "Shiny.fluent",
+    "section": "",
+    "text": "Shiny.fluent\n\n\nShiny.Fluent is a R shiny framework that utilizes Microsoft Fluent UI, developed by Appsilon.\nDemo\nhttps://connect.appsilon.com/fluentui/\nGithub\nhttps://github.com/Appsilon/shiny.fluent\n\n\n\n\nShiny Fluent App"
+  },
+  {
+    "objectID": "posts/bs4Dash/index.html",
+    "href": "posts/bs4Dash/index.html",
+    "title": "bs4Dash",
+    "section": "",
+    "text": "bs4Dash\n\n\nBootstrap 4 shinydashboard using AdminLTE3.\nDesigned to upgrade your projects from shinydashboard.\nYoutube\nhttps://www.youtube.com/watch?v=vaK3sknxe4c&t=1s (David Granjon)\nhttps://www.youtube.com/watch?v=LY6K_GD4ypc (Ashleigh Latter)\nhttps://www.youtube.com/watch?v=V8ne6_F7lIM (Felix Analytix)\nGithub\nhttps://github.com/RinteRface/bs4Dash\n\n\n\n\nbs4Dash App"
+  },
+  {
+    "objectID": "posts/OutstandingShiny/index.html",
+    "href": "posts/OutstandingShiny/index.html",
+    "title": "Outstanding User Interfaces with Shiny",
+    "section": "",
+    "text": "Link to the book\nhttps://unleash-shiny.rinterface.com/"
+  },
+  {
+    "objectID": "posts/MasteringShiny/index.html",
+    "href": "posts/MasteringShiny/index.html",
+    "title": "Master Shiny",
+    "section": "",
+    "text": "Link to the book\nhttps://mastering-shiny.org/"
+  }
+]

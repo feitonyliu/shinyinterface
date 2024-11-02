@@ -1,0 +1,13 @@
+---
+title: "Master Shiny"
+description: "Essential reading for developing Shiny applications."
+author: "Tony Liu"
+categories: [book]
+date: "11/02/2024"
+---
+
+Link to the book
+
+<https://mastering-shiny.org/>
+
+![](cover.png)

@@ -1,0 +1,33 @@
+---
+title: "bs4Dash"
+description: "Bootstrap 4 shinydashboard using AdminLTE3"
+author: "Tony Liu"
+categories: [code]
+date: "11/02/2024"
+---
+
+::::: columns
+::: {.column width="40%"}
+[![bs4Dash](logo.svg){fig-alt="Bootstrap 4 shinydashboard using AdminLTE3" fig-align="left" width="65"}](https://bs4dash.rinterface.com/)
+
+Bootstrap 4 shinydashboard using [AdminLTE3](https://github.com/ColorlibHQ/AdminLTE).
+
+Designed to upgrade your projects from [shinydashboard](#0).
+
+Youtube
+
+<https://www.youtube.com/watch?v=vaK3sknxe4c&t=1s> (David Granjon)
+
+<https://www.youtube.com/watch?v=LY6K_GD4ypc> (Ashleigh Latter)
+
+<https://www.youtube.com/watch?v=V8ne6_F7lIM> (Felix Analytix)
+
+Github
+
+<https://github.com/RinteRface/bs4Dash>
+:::
+
+::: {.column width="60%"}
+![bs4Dash App](demo.gif)
+:::
+:::::

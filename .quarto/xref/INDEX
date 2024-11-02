@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "0331e1cd"
+  },
+  "about.qmd": {
+    "about.html": "f5caf650"
+  },
+  "posts/post-with-code/index.qmd": {
+    "index.html": "ea320ed6"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "7dd19562"
+  },
+  "posts/shiny.fluent/index.qmd": {
+    "index.html": "93a51438"
+  },
+  "posts/bs4Dash/index.qmd": {
+    "index.html": "b2d9f1c0"
+  },
+  "posts/OutstandingShiny/index.qmd": {
+    "index.html": "c8a26bc1"
+  },
+  "posts/MasteringShiny/index.qmd": {
+    "index.html": "c1aef7d3"
+  }
+}
