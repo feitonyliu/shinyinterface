@@ -3,6 +3,7 @@
     "listing": "/index.html",
     "items": [
       "/posts/bs4Dash/index.html",
+      "/posts/EngineeringProductionShiny/index.html",
       "/posts/MasteringShiny/index.html",
       "/posts/OutstandingShiny/index.html",
       "/posts/shiny.fluent/index.html",

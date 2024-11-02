@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Shiny Interfaces",
     "section": "",
-    "text": "bs4Dash\n\n\n\n\n\n\ncode\n\n\n\nBootstrap 4 shinydashboard using AdminLTE3\n\n\n\n\n\nNov 2, 2024\n\n\nTony Liu\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Shiny\n\n\n\n\n\n\nbook\n\n\n\nEssential reading for developing Shiny applications.\n\n\n\n\n\nNov 2, 2024\n\n\nTony Liu\n\n\n\n\n\n\n\n\n\n\n\n\nOutstanding User Interfaces with Shiny\n\n\n\n\n\n\nbook\n\n\n\nA book on building beautiful R Shiny Interface\n\n\n\n\n\nNov 2, 2024\n\n\nTony Liu\n\n\n\n\n\n\n\n\n\n\n\n\nShiny.fluent\n\n\n\n\n\n\ncode\n\n\n\n\n\n\n\n\n\nNov 2, 2024\n\n\nTony Liu\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 30, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "bs4Dash\n\n\n\n\n\n\ncode\n\n\n\nBootstrap 4 shinydashboard using AdminLTE3\n\n\n\n\n\nNov 2, 2024\n\n\nTony Liu\n\n\n\n\n\n\n\n\n\n\n\n\nEngineering Production Grade Shiny Apps\n\n\n\n\n\n\nbook\n\n\n\nBuilding robust shiny applications that are ready to be sent to production. \n\n\n\n\n\nNov 2, 2024\n\n\nTony Liu\n\n\n\n\n\n\n\n\n\n\n\n\nMaster Shiny\n\n\n\n\n\n\nbook\n\n\n\nEssential reading for developing Shiny applications.\n\n\n\n\n\nNov 2, 2024\n\n\nTony Liu\n\n\n\n\n\n\n\n\n\n\n\n\nOutstanding User Interfaces with Shiny\n\n\n\n\n\n\nbook\n\n\n\nA book on building beautiful R Shiny Interface\n\n\n\n\n\nNov 2, 2024\n\n\nTony Liu\n\n\n\n\n\n\n\n\n\n\n\n\nShiny.fluent\n\n\n\n\n\n\ncode\n\n\n\n\n\n\n\n\n\nNov 2, 2024\n\n\nTony Liu\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nOct 30, 2024\n\n\nTony Liu\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -54,5 +54,12 @@
     "title": "Master Shiny",
     "section": "",
     "text": "Link to the book\nhttps://mastering-shiny.org/"
+  },
+  {
+    "objectID": "posts/EngineeringProductionShiny/index.html",
+    "href": "posts/EngineeringProductionShiny/index.html",
+    "title": "Engineering Production Grade Shiny Apps",
+    "section": "",
+    "text": "Link to the book\nhttps://engineering-shiny.org/"
   }
 ]

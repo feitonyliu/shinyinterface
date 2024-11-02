@@ -1,0 +1,13 @@
+---
+title: "Engineering Production Grade Shiny Apps"
+description: "Building robust shiny applications that are ready to be sent to production. "
+author: "Tony Liu"
+categories: [book]
+date: "11/02/2024"
+---
+
+Link to the book
+
+<https://engineering-shiny.org/>
+
+![](engineering-shiny.jpeg)

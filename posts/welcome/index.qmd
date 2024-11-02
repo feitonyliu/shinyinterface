@@ -1,6 +1,6 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+author: "Tony Liu"
 date: "2024-10-30"
 categories: [news]
 ---
